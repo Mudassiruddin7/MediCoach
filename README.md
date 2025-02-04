@@ -1,6 +1,6 @@
 ![CDP](https://media.tenor.com/DEvw1FjuTlgAAAAM/danny-devito-spin.gif)
 
-# _**Crop Disease Prediciton**_
+# _**Medi Coach**_
 This medical application leverages advanced machine learning models to predict results across a wide range of medical tests with high accuracy. By analyzing patient data, the app delivers real-time predictions, offering healthcare providers valuable insights to aid in diagnosis and treatment decisions. The integration of predictive analytics enhances the efficiency of medical testing, allowing for early detection of conditions and personalized healthcare recommendations. The app's user-friendly interface ensures seamless interaction for both medical professionals and patients, making it a versatile tool for improving clinical outcomes and optimizing healthcare workflows.
 # _**Base Paper**_
 + https://ieeexplore.ieee.org/document/10201690
